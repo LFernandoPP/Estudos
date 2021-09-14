@@ -1,0 +1,7 @@
+package br.com.alura.forum.controller.form;
+
+public class TopicoForm {
+    private  String titulo;
+  //  private  String mensagem;
+  //  private
+}
